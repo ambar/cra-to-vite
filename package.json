@@ -34,5 +34,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@rollup/plugin-inject": "^4.0.2",
+    "@vitejs/plugin-react-refresh": "^1.1.2",
+    "vite": "^2.0.0-beta.46"
   }
 }
